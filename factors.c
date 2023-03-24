@@ -22,7 +22,6 @@ void init(char *buffer)
  * @filename: Pointer to file location
  *
  * @buffer: Array that holds the file data
- *
  * Return: None (void function)
  */
 void file2buffer(char *filename, char *buffer)
